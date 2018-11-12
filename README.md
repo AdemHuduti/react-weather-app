@@ -1,3 +1,6 @@
+# Quick start
+
+## Description
 <p>Fetching weather data only with React(without Redux)</p>
 <p>You only need to type city and the country and data will show.</p>
 
