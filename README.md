@@ -6,6 +6,6 @@
 ```
 cd weather-app
 npm install
-<li>npm start</li>
+npm start
 ```
 <p>Visit localhost:3000</p>
