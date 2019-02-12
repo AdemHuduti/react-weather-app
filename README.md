@@ -1,7 +1,5 @@
 # Quick start
 
-## Description
-
 You only need to type city and the country and data will show.
 
 ```
